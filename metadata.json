@@ -1,0 +1,6 @@
+{
+  "name": "Nudge",
+  "description": "Brutalist, ultra-minimalist task reminder app that commands focus at scheduled times.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
